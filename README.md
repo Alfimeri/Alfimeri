@@ -1,4 +1,4 @@
-🚀 Hi, I'm @Alfimeri!
+🚀 Hi, I'm @iamBelyy!
 👨‍💼 Project Manager | 🎨 UI Designer | 💻 Swift Developer
 📍 Based in Turkmenistan
 
@@ -11,4 +11,4 @@
 ✅ Specialized in iOS app development and UI/UX design
 
 📬 Let's Connect!
-💼 GitHub: Alfimeri
+💼 GitHub: iamBelyy
